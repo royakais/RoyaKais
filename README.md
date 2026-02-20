@@ -71,6 +71,7 @@ My current goal is to build strong foundations in:
 
 - GitHub: https://github.com/royakais
 - LinkedIn: https://www.linkedin.com/in/royakais
+- Portfolio: https://royakais-portfolio.vercel.app/
 
 ---
 
