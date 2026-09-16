@@ -1,78 +1,39 @@
-# Hi, I'm Roya 👋
+# 👋 Hi, I'm Roya Kais  
 
-🎓 Computer Science student  
-📍 Lebanon  
-💻 Interested in building real-world applications (web, mobile & backend)  
-🚀 Currently building projects to grow as a software engineer
+🎓 Senior Computer Scientist with a strong foundation in **Data Science**, **Software Engineering**, and **Mobile Applications**.  
+💡 Passionate about building intelligent systems, scalable applications, and impactful AI solutions.  
 
 ---
 
-## 👩‍💻 About Me
+## 🛠️ Tech Stack  
 
-I'm a Computer Science student who enjoys turning ideas into real, usable software.
+**Languages**  
+- JavaScript | Java | C# | C++ | Python | SQL  
 
-I focus on:
-- learning by building real projects
-- writing clean and structured code
-- understanding how systems work, not only how to use tools
+**Machine Learning & Data Science**  
+- PyTorch | Scikit-Learn | NumPy | Pandas | Microsoft Power BI  
 
-My current goal is to build strong foundations in:
-- backend development
-- full-stack applications
-- problem solving
+**Engineering & MLOps**  
+- FastAPI | REST API | Git | GitHub Actions | Azure | Linux  
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Java
-- Python
-- JavaScript
-- SQL
-
-**Frameworks & Tools**
-- Next.js
-- React
-- Node.js
-- Prisma
-- PostgreSQL
-- Git & GitHub
+**Databases & Web/Mobile Development**  
+- MySQL | PostgreSQL | Node.js | React.js | Express | React Native  
 
 ---
 
-## 📌 Current Projects
-
-- 🔐 Authentication & dashboard system (Next.js + Prisma + PostgreSQL)
-- 📱 Small educational & logic-based apps
-- 🧠 Practice projects for algorithms and problem solving
-
----
-
-## 🌱 Currently Learning
-
-- Backend architecture
-- Authentication systems
-- API design
-- Database modeling
-- Clean project structure
+## 📂 What You'll Find Here  
+- Machine Learning Projects  
+- AI Applications  
+- Web & Mobile Projects  
 
 ---
 
-## 🎯 Goals
-
-- Build a strong portfolio before graduation
-- Work on meaningful projects related to public services, health, or civic tech
-- Prepare for internships and real-world software roles
+## 🎯 Current Focus  
+- Advancing in **Data Science** and **Machine Learning**  
+- Exploring **AI-driven applications** and **MLOps pipelines**  
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/royakais
-- LinkedIn: https://www.linkedin.com/in/royakais
-- Portfolio: https://royakais-portfolio.vercel.app/
-
----
-
-⭐ Feel free to check my repositories and follow my journey.
+## 📫 Let's Connect  
+- LinkedIn: [royakais](https://linkedin.com/in/royakais)  
+- Email: [royakais@yahoo.com](mailto:royakais@yahoo.com)  
