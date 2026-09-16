@@ -33,7 +33,7 @@ Passionate about building intelligent systems, scalable applications, and impact
 
 <p align="center">
   <a href="https://linkedin.com/in/royakais">
-    <img src="https://img.shields.io/badge/LinkedIn-royakais-blue?style=for-the-badge&logo=linkedin" />
+    
   </a>
   <a href="mailto:royakais@yahoo.com">
     <img src="https://img.shields.io/badge/Email-royakais%40yahoo.com-red?style=for-the-badge&logo=yahoo" />
