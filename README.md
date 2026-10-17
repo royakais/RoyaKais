@@ -21,7 +21,7 @@
 <!-- ============================== ABOUT ============================== -->
 ## 👩🏻‍💻 About Me
 
-I'm a final-year **Computer Science** student at **Holy Spirit University of Kaslik (USEK)** who likes shipping things that actually run, not notebooks that stay notebooks. Across two software internships and my own projects I've worked end to end: designing relational databases, building typed full-stack web apps, and taking machine-learning models from raw data to a live website.
+I'm a final-year **Computer Science** student at **Holy Spirit University of Kaslik (USEK)** who likes shipping things that actually run, not notebooks that stay notebooks. Across my projects I've worked end to end: designing relational databases, building typed full-stack web apps, and taking machine-learning models from raw data to a live website.
 
 ```python
 class Roya:
@@ -33,37 +33,6 @@ class Roya:
     languages  = {"English": "fluent", "Arabic": "native", "French": "basic"}
     looking_for = "Junior software engineering & data roles"
 ```
-
-<br />
-
-<!-- ============================== EXPERIENCE ============================== -->
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Full-Stack Developer Intern</h3>
-      <b>Techtalks</b><br /><br />
-      Built production features across the stack in an Agile/Scrum team, including <b>BidZone</b>.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Frontend Developer Intern</h3>
-      <b>T&amp;J Softwares</b><br /><br />
-      Developed and refined user-facing interfaces, collaborating with designers and backend developers to ship features.
-      <br /><br />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
 <br />
 
