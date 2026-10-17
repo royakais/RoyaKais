@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <style>
+    .fade { opacity:0; animation: in 1.4s ease-out forwards; }
+    .d1 { animation-delay:.15s } .d2 { animation-delay:.5s } .d3 { animation-delay:.85s } .d4 { animation-delay:1.2s }
+    @keyframes in { from { opacity:0; transform:translateY(8px) } to { opacity:1; transform:translateY(0) } }
+    .line { stroke-dasharray:360; stroke-dashoffset:360; animation: draw 1.6s .6s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset:0 } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBF8F4"/><stop offset="1" stop-color="#EFE7DE"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="340" rx="22" fill="url(#g)"/>
+  <rect x="18" y="18" width="1164" height="304" rx="14" fill="none" stroke="#B8956A" stroke-opacity=".55" stroke-width="1"/>
+  <text class="fade d1" x="600" y="92" text-anchor="middle" font-family="'Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif" font-size="14" letter-spacing="7" fill="#B8956A">PORTFOLIO  ·  MMXXVI</text>
+  <text class="fade d2" x="600" y="186" text-anchor="middle" font-family="'Didot','Bodoni 72','Playfair Display','Cormorant Garamond',Georgia,'Times New Roman',serif" font-size="92" font-style="italic" fill="#1F1A24">Roya Kais</text>
+  <g transform="translate(600 222)">
+    <line class="line" x1="-190" y1="0" x2="-14" y2="0" stroke="#B8956A" stroke-width="1"/>
+    <line class="line" x1="14" y1="0" x2="190" y2="0" stroke="#B8956A" stroke-width="1"/>
+    <rect class="fade d3" x="-5" y="-5" width="10" height="10" transform="rotate(45)" fill="#B8956A"/>
+  </g>
+  <text class="fade d4" x="600" y="266" text-anchor="middle" font-family="'Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="5.5" fill="#5B3A5E">SOFTWARE ENGINEER  —  FULL-STACK  —  DATA &amp; MACHINE LEARNING</text>
+</svg>
