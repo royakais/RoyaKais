@@ -1,41 +1,186 @@
-# 👋 Hi, I'm Roya Kais  
-
-I am a senior Computer Scientist with a strong foundation in **Data Science**, **Software Engineering**, and **Mobile Applications**.  
-Passionate about building intelligent systems, scalable applications, and impactful AI solutions.  
-
----
-
-## 🛠️ Tech Stack  
-
-| **Category** | **Tools** |
-|--------------|-----------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Machine Learning & Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) |
-| **Engineering & MLOps** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Databases & Web/Mobile** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) |
-
----
-
-## 📂 What You'll Find Here  
-- 🚀 Machine Learning Projects  
-- 🤖 AI Applications  
-- 🌐 Web & Mobile Projects  
-
----
-
-## 🎯 Current Focus  
-- Advancing in **Data Science** and **Machine Learning**  
-- Exploring **AI-driven applications** and **MLOps pipelines**  
-
----
-
-## 📫 Let's Connect  
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1e1b4b,55:4c1d95,100:8b5cf6&text=Roya%20Kais&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20%26%20ML&descSize=18&descAlignY=58&animation=fadeIn" alt="Roya Kais" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/royakais">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/royakais">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Science+%40+USEK+%E2%80%94+graduating+Dec+2026;I+build+full-stack+apps+with+Next.js+%2B+PostgreSQL;I+turn+raw+data+into+deployed+ML+products;Currently+building+HomeFit%3A+a+workout+app+with+ML" alt="Typing intro" />
   </a>
-  <a href="mailto:royakais@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=yahoo" />
-  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/royakais"><img src="https://img.shields.io/badge/LinkedIn-royakais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:royakais@yahoo.com"><img src="https://img.shields.io/badge/Email-royakais%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Lebanon-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lebanon" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20SWE%20%26%20Data%20roles-16a34a?style=for-the-badge" alt="Open to work" />
+</p>
+
+<br />
+
+<!-- ============================== ABOUT ============================== -->
+## 👩🏻‍💻 About Me
+
+I'm a final-year **Computer Science** student at **Holy Spirit University of Kaslik (USEK)** who likes shipping things that actually run, not notebooks that stay notebooks. Across two software internships and my own projects I've worked end to end: designing relational databases, building typed full-stack web apps, and taking machine-learning models from raw data to a live website.
+
+```python
+class Roya:
+    role       = "Software Engineer (Full-Stack · Data & ML)"
+    education  = "B.S. Computer Science, USEK — Dec 2026"
+    strengths  = ["Python", "Java", "SQL / PostgreSQL", "Next.js + TypeScript"]
+    building   = "HomeFit — home-workout mobile app with ML (final year project)"
+    learning   = ["Advanced Java & the JVM", "Data structures & algorithms"]
+    languages  = {"English": "fluent", "Arabic": "native", "French": "basic"}
+    looking_for = "Junior software engineering & data roles"
+```
+
+<br />
+
+<!-- ============================== EXPERIENCE ============================== -->
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Full-Stack Developer Intern</h3>
+      <b>Techtalks</b><br /><br />
+      Built production features across the stack in an Agile/Scrum team, including <b>BidZone</b>.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Developer Intern</h3>
+      <b>T&amp;J Softwares</b><br /><br />
+      Developed and refined user-facing interfaces, collaborating with designers and backend developers to ship features.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ============================== PROJECTS ============================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/royakais/F1_prediction">F1 2026 Prediction Lab</a></h3>
+      End-to-end ML system that predicts Formula 1 finishing positions. Regression and classification models trained on 2024–2026 race data, served by a Flask API to an interactive website.
+      <br /><br />
+      <a href="https://f1-prediction-lab8.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black" /></a>
+      <a href="https://github.com/royakais/MachineLearning-F1"><img src="https://img.shields.io/badge/ML%20pipeline-notebooks-8b5cf6?style=flat-square&logo=jupyter&logoColor=white" /></a>
+      <br /><br />
+      <code>Python</code> <code>scikit-learn</code> <code>Pandas</code> <code>Flask</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 HomeFit <sub><i>· in progress</i></sub></h3>
+      My final year project: a no-equipment home-workout mobile app with machine-learning features layered on top of guided training plans.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Final%20Year%20Project-USEK-4c1d95?style=flat-square" />
+      <img src="https://img.shields.io/badge/repo-private-64748b?style=flat-square&logo=github" />
+      <br /><br />
+      <code>Mobile</code> <code>Machine Learning</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/royakais/BNF-Interpreter">BNF Interpreter</a></h3>
+      A small programming language built from a BNF grammar: lexer, recursive-descent parser, AST and evaluator, with a Swing GUI that visualises tokens and the syntax tree in real time.
+      <br /><br />
+      <code>Java</code> <code>Swing</code> <code>Compilers</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/royakais/DBMS-VeeCoffeeShop">Vee Coffee Shop DBMS</a></h3>
+      Relational database for a 16-branch coffee chain covering sales, inventory, employees, suppliers and deliveries, from ER diagram to normalised schema.
+      <br /><br />
+      <code>SQL</code> <code>ER modelling</code> <code>Normalisation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://github.com/royakais/GuessTheCapital">Guess the Capital</a></h3>
+      Keyboard-first Java desktop quiz with 96 countries, a colour-shifting timer, shake-on-wrong animation and a dark theme.
+      <br /><br />
+      <code>Java</code> <code>Swing</code> <code>HashMap</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗂️ <a href="https://github.com/royakais/royakais-portfolio">Personal Portfolio</a></h3>
+      My portfolio site, built with the App Router and TypeScript.
+      <br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ============================== STACK ============================== -->
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,r,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web &amp; Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,flask,fastapi&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data &amp; ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" />
+      <br />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,azure,vscode,idea&theme=dark" /></td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ============================== NOW ============================== -->
+## 🎯 Right Now
+
+- 🔨 Building **HomeFit**, my final year project
+- ☕ Deepening **Java**: OOP, collections, the JVM and concurrency
+- 🧮 Practising **data structures & algorithms** every day
+- 🎓 Finishing my **B.S. in Computer Science** (December 2026)
+- 🤝 Open to **junior software engineering and data** opportunities in Lebanon and remotely
+
+<br />
+
+<!-- ============================== CONTACT ============================== -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  I'm always happy to talk about software, data, or opportunities to build something together.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/royakais"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:royakais@yahoo.com"><img src="https://img.shields.io/badge/Send%20an%20Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8b5cf6,45:4c1d95,100:1e1b4b&section=footer" width="100%" />
 </p>
