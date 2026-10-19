@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96">
-  <text x="450" y="54" text-anchor="middle" font-family="'Didot','Bodoni 72','Playfair Display','Cormorant Garamond',Georgia,'Times New Roman',serif" font-style="italic" font-size="42" fill="#EDE6DD">Toolkit</text>
-  <line x1="300" y1="78" x2="440" y2="78" stroke="#C9A97E" stroke-width="1"/>
-  <rect x="445" y="73" width="10" height="10" transform="rotate(45 450 78)" fill="#C9A97E"/>
-  <line x1="460" y1="78" x2="600" y2="78" stroke="#C9A97E" stroke-width="1"/>
-</svg>
