@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#3F3F46"/></pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset=".45" stop-color="#0A0A0A"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity=".22"/><stop offset=".6" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="#0A0A0A"/>
+    <rect width="1200" height="300" fill="url(#d)"/>
+    <rect width="1200" height="300" fill="url(#fade)"/>
+    <rect x="600" width="600" height="300" fill="url(#glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="299" rx="16" fill="none" stroke="#27272A"/>
+  <text x="64" y="88" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="14" letter-spacing="2" fill="#3B82F6">SOFTWARE ENGINEER</text>
+  <text x="60" y="168" font-family="'Inter','Geist','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="#FAFAFA">Roya Kais</text>
+  <text x="64" y="214" font-family="'Inter','Geist','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#A1A1AA">Full-stack development · Data &amp; machine learning</text>
+  <text x="64" y="252" font-family="'Inter','Geist','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" fill="#A1A1AA">B.S. Computer Science, USEK — Dec 2026  ·  Lebanon</text>
+</svg>

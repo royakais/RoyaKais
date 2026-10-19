@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
-  <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="240" y1="0" x2="872" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient></defs>
-  <rect x=".5" y=".5" width="899" height="63" rx="10" fill="#0D1117" stroke="#30363D"/>
-  <rect x="0" y="12" width="4" height="40" rx="2" fill="#22D3EE"/>
-  <text x="28" y="41" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24"><tspan fill="#8B949E">// 03.</tspan> <tspan fill="#4ADE80">tech_stack</tspan><tspan fill="#22D3EE">()</tspan></text>
-  <line x1="240" y1="33" x2="872" y2="33" stroke="url(#g)" stroke-width="1.5"/>
-  <text x="872" y="24" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8B949E">stack.json</text>
-</svg>
