@@ -1,9 +1,98 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <img src="./assets/header-light.svg" alt="Roya Kais — Software Engineer. Full-stack development, data & machine learning." width="100%" />
-  </picture>
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 46px; font-weight: 800; fill: #FFFFFF; letter-spacing: -1.2px; }
+    .role { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 17px; font-weight: 500; fill: #CBD5E1; }
+    .pill-text { font-family: "SFMono-Regular", Consolas, monospace; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 700; fill: #34D399; letter-spacing: 0.8px; }
+    .mono { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; fill: #FFFFFF; }
+    .float1 { animation: drift1 7s ease-in-out infinite; }
+    .float2 { animation: drift2 9s ease-in-out infinite; }
+    @keyframes drift1 { 0%, 100% { transform: translate(0px, 0px); } 50% { transform: translate(18px, -14px); } }
+    @keyframes drift2 { 0%, 100% { transform: translate(0px, 0px); } 50% { transform: translate(-20px, 12px); } }
+  </style>
+
+  <defs>
+    <clipPath id="canvas">
+      <rect width="900" height="280" rx="20"/>
+    </clipPath>
+
+    <linearGradient id="baseBg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070913"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="glassFill" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="glassStroke" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="rkGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <rect width="900" height="280" fill="url(#baseBg)"/>
+
+    <circle cx="160" cy="60" r="220" fill="url(#orbViolet)" class="float1"/>
+    <circle cx="760" cy="210" r="240" fill="url(#orbCyan)" class="float2"/>
+    <circle cx="520" cy="40" r="180" fill="url(#orbPink)" class="float1"/>
+
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.08"/>
+    </pattern>
+    <rect width="900" height="280" fill="url(#dots)"/>
+
+    <rect x="24" y="24" width="852" height="232" rx="16" fill="url(#glassFill)" stroke="url(#glassStroke)" stroke-width="1.5"/>
+
+    <g transform="translate(64, 62)">
+      <rect width="64" height="64" rx="16" fill="url(#rkGrad)"/>
+      <text x="32" y="42" text-anchor="middle" class="mono">RK</text>
+    </g>
+
+    <g transform="translate(620, 62)">
+      <rect width="216" height="32" rx="16" fill="#10B981" fill-opacity="0.14" stroke="#10B981" stroke-opacity="0.4"/>
+      <circle cx="18" cy="16" r="4.5" fill="#34D399"/>
+      <text x="32" y="20" class="badge-text">OPEN TO SWE &amp; DATA ROLES</text>
+    </g>
+
+    <g transform="translate(64, 172)">
+      <text y="0" class="name">Roya Kais</text>
+      <text y="30" class="role">Software Engineer · Full-Stack Systems, Data &amp; Machine Learning</text>
+    </g>
+
+    <g transform="translate(534, 182)">
+      <rect x="0" y="0" width="94" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.15"/>
+      <text x="47" y="18" text-anchor="middle" class="pill-text">Full-Stack</text>
+
+      <rect x="104" y="0" width="90" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.15"/>
+      <text x="149" y="18" text-anchor="middle" class="pill-text">ML &amp; Data</text>
+
+      <rect x="204" y="0" width="98" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.15"/>
+      <text x="253" y="18" text-anchor="middle" class="pill-text">USEK '26</text>
+    </g>
+  </g>
+</svg>
 
   <br /><br />
 
@@ -80,7 +169,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,cs" alt="Languages" />
 
   **Web & Backend**  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask,fastapi" alt="Web & Backend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi" alt="Web & Backend" />
 
   **Data, ML & Infrastructure**  
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,postgres,mysql,prisma,git" alt="Data & DevOps" />
